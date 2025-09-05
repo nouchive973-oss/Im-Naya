@@ -1,0 +1,59 @@
+salons.sample.json
+
+[
+  {
+    "nom": "Nou Chivé 973",
+    "ville": "Cayenne",
+    "pays": "Guyane",
+    "specialite": "Locks, soins capillaires naturels, coiffures protectrices"
+  
+  },
+  {
+    "nom": "Locks & Beauty Paris",
+    "ville": "Paris",
+    "pays": "France",
+    "specialite": "Locks, Sisterlocks, colorations naturelles"
+  },
+  {
+    "nom": "Afro Touch",
+    "ville": "Lyon",
+    "pays": "France",
+    "specialite": "Locks, tresses, soins aux plantes"
+  },
+  {
+    "nom": "Queen Hair Braids",
+    "ville": "Marseille",
+    "pays": "France",
+    "specialite": "Locks, vanilles, crochet braids"
+  },
+  {
+    "nom": "Maison du Locks",
+    "ville": "Bruxelles",
+    "pays": "Belgique",
+    "specialite": "Locks, dreadlocks, extensions naturelles"
+  },
+  {
+    "nom": "Roots & Crown",
+    "ville": "Anvers",
+    "pays": "Belgique",
+    "specialite": "Locks, entretien racines, soins ayurvédiques"
+  },
+  {
+    "nom": "Natural Vibes",
+    "ville": "Montréal",
+    "pays": "Canada",
+    "specialite": "Locks, coiffures protectrices, produits naturels"
+  },
+  {
+    "nom": "Crown & Glory",
+    "ville": "Toronto",
+    "pays": "Canada",
+    "specialite": "Locks, crochet locks, colorations végétales"
+  },
+  {
+    "nom": "Rast'Art",
+    "ville": "Québec",
+    "pays": "Canada",
+    "specialite": "Locks, locks semi-longs, entretien naturel"
+  }
+]
