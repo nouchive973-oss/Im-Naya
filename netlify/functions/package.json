@@ -1,0 +1,31 @@
+package.json
+ {
+  "name": "lockshoo-functions",
+  "version": "1.0.0",
+  "description": "Fonctions Netlify pour LOCKSHOO — Assistant IA pour les locks et cheveux texturés",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0",
+    "dev": "netlify dev",
+    "deploy": "netlify deploy"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "netlify-cli": "^17.0.0"
+  },
+  "keywords": [
+    "locks",
+    "cheveux texturés",
+    "IA",
+    "Netlify Functions",
+    "Nou Chivè 973"
+  ],
+  "author": "Indye GYAL'Z Corporation",
+  "license": "MIT",
+  "engines": {
+    "node": "18.x"
+  }
+}
