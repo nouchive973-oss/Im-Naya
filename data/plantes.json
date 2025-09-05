@@ -1,0 +1,119 @@
+
+Plantes.json :
+[
+  {
+    "nom": "Huile de Ricin",
+    "bienfait": "Renforce les racines, stimule la pousse et prévient la casse",
+    "usage": "Appliquez en massage sur les racines 1x/semaine. Laissez poser 1h sous bonnet."
+  },
+  {
+    "nom": "Aloe Vera",
+    "bienfait": "Hydrate en profondeur, apaise le cuir chevelu et réduit les frisottis",
+    "usage": "Appliquez le gel frais directement sur les locks ou en spray dilué."
+  },
+  {
+    "nom": "Neem",
+    "bienfait": "Purifie, combat les pellicules, les démangeaisons et les champignons",
+    "usage": "Utilisez en rinse (infusion) ou en poudre mélangée à de l’eau."
+  },
+  {
+    "nom": "Feuille d'Argent (Ocotea guianensis)",
+    "bienfait": "Active la pousse, renforce les locks et donne une brillance naturelle",
+    "usage": "Faites bouillir 3-5 feuilles dans 1L d’eau. Rincez vos locks avec l’eau refroidie."
+  },
+  {
+    "nom": "Huile de Coco",
+    "bienfait": "Protège contre la casse, pénètre en profondeur et nourrit la fibre capillaire",
+    "usage": "Bain d’huile chaud 1x/semaine. Laissez poser 2h minimum."
+  },
+  {
+    "nom": "Romarin",
+    "bienfait": "Stimule la circulation sanguine du cuir chevelu, accélère la pousse",
+    "usage": "Infusion en rinse ou quelques gouttes d’huile essentielle dans votre spray."
+  },
+  {
+    "nom": "Basilic Sacré (Tulsi)",
+    "bienfait": "Renforce les cheveux, réduit la chute et purifie l’énergie",
+    "usage": "Infusion en rinçage ou ajouté à l’huile de massage."
+  },
+  {
+    "nom": "Moringa",
+    "bienfait": "Riche en vitamines, il fortifie les locks et prévient la sécheresse",
+    "usage": "Poudre mélangée à de l’eau ou en huile de massage."
+  },
+  {
+    "nom": "Curcuma",
+    "bienfait": "Anti-inflammatoire, purifie le cuir chevelu, donne un reflet doré",
+    "usage": "Pâte douce (poudre + eau) en masque. Évitez les taches sur vêtements."
+  },
+  {
+    "nom": "Camomille",
+    "bienfait": "Adoucit les locks, illumine les reflets naturels, apaise le cuir chevelu",
+    "usage": "Infusion en rinçage après le shampoing."
+  },
+  {
+    "nom": "Feuille de Girofle (Eugenia caryophyllus)",
+    "bienfait": "Stimule la pousse, purifie en profondeur, combat les odeurs",
+    "usage": "Ajoutez 3-5 feuilles à votre infusion de feuille d’argent ou de neem."
+  },
+  {
+    "nom": "Lavande",
+    "bienfait": "Apaise le stress, réduit les démangeaisons, favorise un sommeil sain",
+    "usage": "Quelques gouttes d’huile essentielle dans votre spray ou huile de soin."
+  }
+] 
+
+Recettes.Json
+
+[
+  {
+    "nom": "Bain d'huile chaude aux 3 huiles",
+    "ingredients": "Huile de ricin, huile de coco, huile d'olive",
+    "conseil": "Mélangez à parts égales, chauffez au bain-marie, appliquez sur les locks et cuir chevelu. Laissez poser 1h minimum sous bonnet en satin. Idéal pour renforcer et nourrir en profondeur."
+  },
+  {
+    "nom": "Rinçage citron-romarin",
+    "ingredients": "Jus de citron, infusion de romarin",
+    "conseil": "Éclaircit doucement les locks, donne une brillance naturelle et stimule la pousse. Appliquez en fin de shampoing. Évitez le soleil juste après."
+  },
+  {
+    "nom": "Spray hydratant maison à l’aloe vera",
+    "ingredients": "Gel d’aloe vera, eau de rose, 2 gouttes d’huile de jojoba",
+    "conseil": "Mélangez dans un spray. Vaporisez 2-3 fois par semaine pour hydrater sans alourdir. Rafraîchit le cuir chevelu."
+  },
+  {
+    "nom": "Masque curcuma-feuille d’argent",
+    "ingredients": "Poudre de curcuma, eau de feuille d’argent infusée",
+    "conseil": "Mélangez en pâte onctueuse. Appliquez sur les racines. Laissez poser 30 min. Purifie, renforce et donne un reflet doré sacré."
+  },
+  {
+    "nom": "Rinçage vinaigre de cidre",
+    "ingredients": "1 volume de vinaigre de cidre, 3 volumes d’eau",
+    "conseil": "Utilisez après le shampoing, une fois par mois. Équilibre le pH, élimine les résidus, fortifie les locks."
+  },
+  {
+    "nom": "Huile de soin à la lavande",
+    "ingredients": "Huile de ricin, 3 gouttes d’huile essentielle de lavande",
+    "conseil": "Appliquez en massage sur les racines 2x/semaine. Apaise, détend et favorise un sommeil profond."
+  },
+  {
+    "nom": "Infusion purificatrice neem-girofle",
+    "ingredients": "Feuilles de neem, feuilles de girofle, eau",
+    "conseil": "Faites bouillir 15 min. Laissez refroidir. Rincez vos locks. Puissant contre les pellicules, les odeurs et les irritations."
+  },
+  {
+    "nom": "Beurre de karité fouetté",
+    "ingredients": "Beurre de karité brut, huile de coco",
+    "conseil": "Fouettez jusqu’à obtenir une texture chantilly. Appliquez sur les pointes pour les protéger et éviter la casse."
+  },
+  {
+    "nom": "Spray pousse accélérée romarin-basilic",
+    "ingredients": "Infusion de romarin, infusion de basilic sacré, 1 cuillère à café de glycérine végétale",
+    "conseil": "Mélangez et versez dans un spray. Appliquez sur les racines tous les jours. Stimule la microcirculation et la pousse."
+  },
+  {
+    "nom": "Masque miel-coco",
+    "ingredients": "Miel brut, huile de coco",
+    "conseil": "Mélangez, appliquez sur les locks. Laissez poser 45 min. Nourrit intensément, adoucit et redonne de la souplesse."
+  }
+]
