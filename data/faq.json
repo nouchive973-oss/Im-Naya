@@ -1,0 +1,38 @@
+faq.json : 
+document.addEventListener("DOMContentLoaded", function () {
+    console.log("Im-Naya");
+
+    // --- FAQ ---
+    const faqContainer = document.getElementById("faq-container");
+    if (faqContainer) {
+        fetch("/data/faq.json")
+            .then(r => r.ok ? r.json() : Promise.reject(r))
+            .then(data => {
+                faqContainer.innerHTML = "";
+                data.forEach(qa => {
+                    const el = document.createElement("div");
+                    el.classList.add("faq-item");
+                    el.innerHTML = `<h3>${qa.question}</h3><p>${qa.reponse}</p>`;
+                    faqContainer.appendChild(el);
+                });
+            })
+            .catch(e => faqContainer.innerHTML = "<p>Erreur de chargement de la FAQ. Veuillez réessayer plus tard.</p>");
+    }
+
+    // --- Salons ---
+    const salonList = document.getElementById("salon-list");
+    if (salonList) {
+        fetch("/data/salons.json")
+            .then(r => r.json())
+            .then(data => {
+                salonList.innerHTML = "";
+                data.forEach(s => {
+                    const card = document.createElement("div");
+                    card.classList.add("salon-card");
+                    card.innerHTML = `<h3>${s.nom}</h3><p><strong>${s.ville}</strong> (${s.pays})</p><p>${s.specialite}</p>`;
+                    salonList.appendChild(card);
+                });
+            })
+            .catch(e => salonList.innerHTML = "<p>Impossible de charger la liste des coiffeurs.</p>");
+    }
+});
