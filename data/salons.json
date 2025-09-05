@@ -1,0 +1,170 @@
+salons.json
+
+[
+  // ========== 🌴 CARAÏBES & HAÏTI ==========
+  {
+    "nom": "Chez Manno Coiffure",
+    "ville": "Port-au-Prince",
+    "pays": "Haïti",
+    "specialite": "Tresses, locks, entretien capillaire naturel",
+    "contact": "https://www.facebook.com/chezmannocoiffure"
+  },
+  {
+    "nom": "Anacaona Beauty Salon",
+    "ville": "Jacmel",
+    "pays": "Haïti",
+    "specialite": "Soins capillaires afros, locks, tissage créole",
+    "contact": "https://instagram.com/anacoenbeauty"
+  },
+  {
+    "nom": "Natural Hair Caribbean",
+    "ville": "Kingston",
+    "pays": "Jamaïque",
+    "specialite": "Afro, locks, retwist, soins sans eau",
+    "contact": "https://naturalhaircaribbean.com"
+  },
+  {
+    "nom": "Twist & Locs Studio",
+    "ville": "Bridgetown",
+    "pays": "Barbade",
+    "specialite": "Locs, faux locks, entretien dread",
+    "contact": "https://instagram.com/twistandlocsbb"
+  },
+  
+
+  // ========== 🇨🇦 CANADA ==========
+  {
+    "nom": "Afrodizz Hair Studio",
+    "ville": "Montréal",
+    "pays": "Canada",
+    "specialite": "Coiffure afro, locks, tresses, soins profonds",
+    "contact": "https://afrodizz.com"
+  },
+  {
+    "nom": "Natural Hair Bar",
+    "ville": "Toronto",
+    "pays": "Canada",
+    "specialite": "Locs, twist, co-wash, sans sulfates",
+    "contact": "https://naturalhairbar.ca"
+  },
+  {
+    "nom": "Soleil Noir Coiffure",
+    "ville": "Ottawa",
+    "pays": "Canada",
+    "specialite": "Cheveux naturels, locks, formation coiffeurs",
+    "contact": "https://instagram.com/soleilnoir"
+  },
+
+  // ========== 🇺🇸 USA ==========
+  {
+    "nom": "Dreadlocks NYC",
+    "ville": "New York",
+    "pays": "États-Unis",
+    "specialite": "Locking depuis 1995, méthode sans outils",
+    "contact": "https://dreadlocksnyc.com"
+  },
+  {
+    "nom": "The Loxx Barbershop",
+    "ville": "Los Angeles",
+    "pays": "États-Unis",
+    "specialite": "Barbier afro, locks, fades, style urbain",
+    "contact": "https://theloxx.com"
+  },
+  {
+    "nom": "Naturally Marci",
+    "ville": "Atlanta",
+    "pays": "États-Unis",
+    "specialite": "Retwist, loc styling, coaching capillaire",
+    "contact": "https://naturallymarci.com"
+  },
+
+  // ========== 🌍 EUROPE ==========
+  {
+    "nom": "AfroBraids Paris",
+    "ville": "Paris",
+    "pays": "France",
+    "specialite": "Tresses, locks, nattes, soins afros",
+    "contact": "https://afrobraids-paris.fr"
+  },
+  {
+    "nom": "Black Orchid Salon",
+    "ville": "Londres",
+    "pays": "Royaume-Uni",
+    "specialite": "Cheveux texturés, locks, extensions naturelles",
+    "contact": "https://blackorchidsalon.co.uk"
+  },
+  {
+    "nom": "Soul & Curls",
+    "ville": "Berlin",
+    "pays": "Allemagne",
+    "specialite": "Soins bouclés, locks, ateliers capillaires",
+    "contact": "https://soulandcurls.de"
+  },
+  {
+    "nom": "Nappily Naturals",
+    "ville": "Amsterdam",
+    "pays": "Pays-Bas",
+    "specialite": "Cheveux crépus, locks, produits maison",
+    "contact": "https://nappilynaturals.nl"
+  },
+  {
+    "nom": "Cime & Soleil",
+    "ville": "Fort-de-France",
+    "pays": "Martinique",
+    "specialite": "Soins capillaires, locks, accompagnement holistique",
+    "contact": "https://instagram.com/cimeetsoleil"
+  },
+  {
+    "nom": "Kaléidoscope Coiffure",
+    "ville": "Pointe-à-Pitre",
+    "pays": "Guadeloupe",
+    "specialite": "Tresses, locks, nattes africaines, coloration végétale",
+    "contact": "https://instagram.com/kaleidoscope_coiffure"
+  },
+
+  // ========== 🌏 AFRIQUE ==========
+  {
+    "nom": "Queen of Sheba Hair Studio",
+    "ville": "Dakar",
+    "pays": "Sénégal",
+    "specialite": "Tresses africaines, locks, coiffures traditionnelles",
+    "contact": "https://instagram.com/queenofshebadakar"
+  },
+  {
+    "nom": "Zuri Natural Hair",
+    "ville": "Nairobi",
+    "pays": "Kenya",
+    "specialite": "Cheveux naturels, locks, produits locaux",
+    "contact": "https://zurinatural.com"
+  },
+  {
+    "nom": "Ikonic Locs",
+    "ville": "Johannesburg",
+    "pays": "Afrique du Sud",
+    "specialite": "Locs, retwist, maintenance, style unique",
+    "contact": "https://ikoniclocs.co.za"
+  },
+
+  // ========== 🌏 ASIE (émergent mais réel) ==========
+  {
+    "nom": "Afro Temple Tokyo",
+    "ville": "Tokyo",
+    "pays": "Japon",
+    "specialite": "Locks, culture afro, ateliers d'éducation capillaire",
+    "contact": "https://instagram.com/afrotemple.tokyo"
+  },
+  {
+    "nom": "Natural Hair India",
+    "ville": "Mumbai",
+    "pays": "Inde",
+    "specialite": "Cheveux bouclés/texturés, conseils pour mixed heritage",
+    "contact": "https://naturalhairindia.com"
+  },
+  {
+    "nom": "Afro Style Seoul",
+    "ville": "Séoul",
+    "pays": "Corée du Sud",
+    "specialite": "Soins pour expatriés afros, locks, tresses",
+    "contact": "https://instagram.com/afrostyleseoul"
+  }
+]
