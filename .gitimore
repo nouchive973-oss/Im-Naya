@@ -1,0 +1,73 @@
+# ========================
+# Fichiers système
+# ========================
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*~
+
+# ========================
+# Node.js & dépendances
+# ========================
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+.pnpm-debug.log
+
+# Si tu utilises npm ou yarn
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# ========================
+# Variables d'environnement
+# ========================
+# 🔐 Très important : ne jamais pousser les clés secrètes
+.env
+.env.local
+.env.development
+.env.production
+.env.staging
+.env.test
+
+# ========================
+# Build & cache
+# ========================
+/build
+/dist
+/out
+/.cache
+/.vercel
+/.netlify/cache
+
+# ========================
+# Fichiers de log
+# ========================
+logs
+*.log
+
+# ========================
+# Éditeurs & IDE
+# ========================
+.idea/           # PhpStorm, WebStorm
+.vscode/         # Visual Studio Code
+*.swp
+*.swo
+.DS_Store?
+
+# ========================
+# Fonctions Netlify (optionnel à ignorer)
+# ========================
+# 🔁 On ne l'ignore PAS ! Les fonctions JS doivent être poussées
+# Mais on ignore les builds ou dépendances locales dans /functions
+netlify/functions/node_modules/
+netlify/functions/.netlify
+netlify/functions/.env
+
+# ========================
+# Fichiers utilisateur (ex: uploads simulés)
+# ========================
+/uploads
+/private-data/
