@@ -1,6 +1,6 @@
-# Lockshoo
+# Im-Naya
 
-LOCKSHOO — Votre Assistant Sacré pour Cheveux Afro & Locks
+Im-Naya — Votre Assistant Sacré pour Cheveux Afro & Locks
 
 ## 🚀 Fonctionnalités
 
