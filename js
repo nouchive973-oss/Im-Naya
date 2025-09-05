@@ -1,9 +1,4 @@
-Fichier JS :app.js
-
-document.addEventListener("DOMContentLoaded", function () {
-    console.log("LOCKSHOO — Agent IA chargé");
-
-    // --- Affirmation du Jour (unique par jour) ---
+ // --- Affirmation du Jour (unique par jour) ---
     const affirmationEl = document.querySelector(".affirmation-day");
     if (affirmationEl) {
         const affirmations = [
@@ -64,9 +59,5 @@ document.addEventListener("DOMContentLoaded", function () {
                     </div>
                 `;
             });
-    }
-});
 
-
-netlify/fonctions
 
