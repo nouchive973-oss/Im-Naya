@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bijoux Énergétiques pour Locks - LOCKSHOO</title>
+    <link rel="stylesheet" href="/styles.css">
+    <meta name="description" content="Découvrez des bijoux énergétiques pour locks : pierres naturelles, 7 chakras, lithothérapie. Sublimez vos locks avec intention.">
+</head>
+<body>
+    <header>
+        <h1>LOCKSHOO</h1>
+        <nav>
+            <a href="/index.html">Accueil</a>
+            <a href="/entretien.html">Entretien</a>
+            <a href="/histoire.html">Histoire</a>
+            <a href="/coiffeurs.html">Coiffeurs</a>
+            <a href="/accessoires.html">Accessoires</a>
+            <a href="/bijoux-energetiques.html" aria-current="page">Bijoux Énergétiques</a>
+            <a href="/defi-21-jours.html">Défi 21 Jours</a>
+            <a href="/faq.html">FAQ</a>
+            <a href="/about.html">À propos</a>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Bijoux Énergétiques pour Locks</h2>
+        <p class="intro-text">
+            Des bijoux conçus non pas pour décorer, mais pour <strong>élever votre vibration</strong>.  
+            Pierres naturelles, intention sacrée, lien avec vos ancêtres — portez votre pouvoir.
+        </p>
+
+        <!-- Affirmation du jour -->
+        <div class="affirmation-day">
+            <p><strong>"Tes locks sont des antennes sacrées. Ce que tu y attaches devient énergie. Choisis avec sagesse."</strong></p>
+        </div>
+
+        <!-- Collection Aura Vibes 9 -->
+        <section class="card">
+            <h3>✨ Collection AURA VIBES 9</h3>
+            <p><em>Éveillez la lumière de votre être. Chaque pièce est activée, purifiée, porte une intention sacrée.</em></p>
+            <ul>
+                <li><strong>Collier Double Solaria</strong> – Citrine & acier inoxydable (57,99 €)</li>
+                <li><strong>Sautoir Lumiance</strong> – Cristal de roche, pierre interchangeable (58,99 €)</li>
+                <li><strong>Bijou de Locks 7 Chakras</strong> – Avec ou sans croix Ankh (à partir de 10,00 €)</li>
+            </ul>
+            <p class="source"><em>👉 <a href="https://khemcreations.com/collections/aura-vibes-9" target="_blank" rel="noopener">Découvrir la collection complète</a></em></p>
+        </section>
+
+        <!-- Collection KAERA (personnalisée) -->
+        <section class="card">
+            <h3>💫 Collection KAERA – Personnalisée</h3>
+            <p><em>Un bijou unique, à votre image, choisi selon votre énergie du moment.</em></p>
+            <ul>
+                <li><strong>Collier Évia</strong> – Personnalisable avec votre pierre (45 cm, à partir de 49,99 €)</li>
+                <li><strong>Bracelet Mawu</strong> – Pierres au choix (32,99 €)</li>
+                <li><strong>Boucles d’oreilles Yhanzi</strong> – Amazonite & graine de Zanzibar (43,99 €)</li>
+            </ul>
+            <p class="source"><em>👉 <a href="https://khemcreations.com/collections/collection-kaera" target="_blank" rel="noopener">Créez votre bijou sur mesure</a></em></p>
+        </section>
+
+        <!-- Pierres & Bienfaits -->
+        <section class="card">
+            <h3>🪨 Pierres Naturelles & Bienfaits</h3>
+            <p>Chaque pierre résonne avec une énergie. Voici celles idéales pour les locks :</p>
+            <ul>
+                <li><strong>Citrine</strong> – Abondance, clarté mentale, protection</li>
+                <li><strong>Œil de Tigre</strong> – Confiance, ancrage, courage</li>
+                <li><strong>Améthyste</strong> – Intuition, paix intérieure, connexion spirituelle</li>
+                <li><strong>Quartz Rose</strong> – Amour de soi, douceur, guérison émotionnelle</li>
+                <li><strong>Tourmaline Noire</strong> – Protection contre les énergies négatives</li>
+            </ul>
+        </section>
+
+        <!-- Soins énergétiques -->
+        <section class="card">
+            <h3>🧘 Soins Énergétiques & Lithothérapie</h3>
+            <p>Reconnectez-vous à votre fréquence intérieure avec un soin vibratoire.</p>
+            <ul>
+                <li><strong>1h de soin complet</strong> – Harmonisation des chakras, guidance intuitive</li>
+                <li><strong>Lieu</strong> – Paris (Île-de-France), en présentiel</li>
+                <li><strong>Bonus</strong> – -15€ sur un bijou KHEM après la séance</li>
+            </ul>
+            <p class="source"><em>👉 <a href="https://khemcreations.com/pages/soins-energetiques" target="_blank" rel="noopener">Réserver un soin énergétique</a></em></p>
+        </section>
+
+        <!-- CTA final -->
+        <div class="cta">
+            <a href="/accessoires.html" class="btn">Tous les accessoires</a>
+            <a href="/index.html" class="btn">Accueil LOCKSHOO</a>
+        </div>
+    </main>
+
+    <footer>
+        <p>© 2025 LOCKSHOO. Made for Nou Chivè 973 with Lanmou Soley by Indye GYAL'Z Corporation. Tous droits réservés.</p>
+    </footer>
+
+    <script src="/js/app.js"></script>
+</body>
+</html>
